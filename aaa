@@ -9,9 +9,9 @@ shared["F​F​l​a​g​A​X​C​o​m​b​i​n​e​G​e​t​O​
     
     ["SilentAim"] = {
         ['Enabled'] = (true),
-        ['Toggle'] = ('x'), --[[ For Target Mode ]]
+        ['Toggle'] = ('t'), --[[ For Target Mode ]]
         ['Field'] = ('Box'), --[[ Box, Circle ]]
-        ['Mode'] = ('Automatic'), --[[ Automatic, Target (Enabled) ]]
+        ['Mode'] = ('Automatic'), --[[ Automatic, Target (disabled) ]]
                                                                                                                  --[[ Must have Automated enabled to use these (prediction formula for offbrands) ]]
         ['Prediction'] = { ['Enabled'] = (true), ['Ground'] = (0.135), ['Air'] = (0.135), ['Automated'] = (false), ['Stabilize'] = (4.8), ['YStabilize'] = { ['Enabled'] = (false), ['Value'] = (2) } },
                                                           --[[ Basic, Advanced ]]
