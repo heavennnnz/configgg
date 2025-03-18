@@ -9,7 +9,7 @@ shared["F​F​l​a​g​A​X​C​o​m​b​i​n​e​G​e​t​O​
     
     ["SilentAim"] = {
         ['Enabled'] = (true),
-        ['Toggle'] = ('T'), --[[ For Target Mode ]]
+        ['Toggle'] = (''), --[[ For Target Mode ]]
         ['Field'] = ('Box'), --[[ Box, Circle ]]
         ['Mode'] = ('Automatic'), --[[ Automatic, Target (Enabled) ]]
                                                                                                                  --[[ Must have Automated enabled to use these (prediction formula for offbrands) ]]
